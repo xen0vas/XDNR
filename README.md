@@ -2,7 +2,7 @@
 
 ----------
 
-![Language](https://img.shields.io/badge/Language-C-yellow) ![license](https://img.shields.io/github/license/xen0vas/XDNR) 
+![Language](https://img.shields.io/badge/Language-C-yellow)
 ![last_commit](https://img.shields.io/github/last-commit/xen0vas/XDNR)
 
 
