@@ -1,5 +1,17 @@
 ### XDNR
 
+----------
+
+#### compile and run
+
+```
+gcc xdnr.c -o xdnr
+chmod +x xdnr
+./xdnr
+```
+
+----------
+
 XDNR is a X0R Cryptor along with DEC/N0T/R0R encoder plus random byte insertion encoder
 
 
