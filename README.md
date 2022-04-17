@@ -6,7 +6,7 @@
 ![last_commit](https://img.shields.io/github/last-commit/xen0vas/XDNR)
 
 
-#### compile and run
+#### compile and run :
 
 ```
 gcc xdnr.c -o xdnr
@@ -15,6 +15,8 @@ chmod +x xdnr
 ```
 
 ----------
+
+#### Description :
 
 XDNR is a X0R Cryptor along with DEC/N0T/R0R encoder plus random byte insertion encoder, 
 which generates null free encrypted and encoded shellcodes
