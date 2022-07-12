@@ -177,11 +177,11 @@ int main(void)
         }
 
         printf(ANSI_COLOR_YELLOW"\n[*]"ANSI_COLOR_GREEN" The secret Key : ");
-        for (int g=0; g<=sizeof(key_len); g++) 
+        for (int g=0; g<=key_len-1; g++) 
         {
-            if (g==sizeof(key_len))
+            if (g == key_len-1)
                    printf(ANSI_COLOR_RED"0x%02x"ANSI_COLOR_RESET, XORKEY[g]);
-            if (g<sizeof(key_len))
+            else
                      printf(ANSI_COLOR_RED"0x%02x, "ANSI_COLOR_RESET, XORKEY[g]);
         }
 
