@@ -83,7 +83,7 @@ printf("[*] Author:"ANSI_COLOR_MAGENTA" @xen0vas "ANSI_COLOR_RESET"\n");
 int main(void)
 {
         banner();
-        printf(ANSI_COLOR_YELLOW"[*] X0R Cryptor with DEC/N0T/R0R encoder v1.0.0\n\n");
+        printf(ANSI_COLOR_YELLOW"[*] X0R Cryptor with DEC/N0T/R0R encoder v1.0.1\n\n");
         printf(ANSI_COLOR_BLUE);
         printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
         printf(ANSI_COLOR_RESET);
